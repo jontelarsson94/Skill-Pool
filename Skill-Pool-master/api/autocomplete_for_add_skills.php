@@ -1,4 +1,3 @@
-<? //FILIP, LESLIE ?>
 <?
   //DB login
   require_once '../lib/php/meekrodb.class.php';

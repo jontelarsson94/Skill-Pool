@@ -1,4 +1,3 @@
-<? //JONATHAN ?>
 <?
 session_start();
 //DB login

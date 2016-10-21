@@ -1,4 +1,3 @@
-<? //ERIK ?>
 <?
   /* Takes in old password, new password through request and email through session. Returns data.success == true if successful, false + error otherwise */
 

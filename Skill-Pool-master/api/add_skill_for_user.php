@@ -1,4 +1,3 @@
-<? //FILIP ?>
 <?
   //DB login
   require_once "../inc/session.php";

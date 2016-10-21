@@ -1,4 +1,4 @@
-<? //FILIP ?>
+
 <?
   //DB login
   require_once '../lib/php/meekrodb.class.php';
@@ -39,7 +39,7 @@
 
     echo json_encode($data); //Return data
     die();
-  }  
+  }
 
   // Delte from db
   DB::delete('category', "id=%s", $_REQUEST['category_id']);

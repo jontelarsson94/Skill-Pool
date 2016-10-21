@@ -1,4 +1,4 @@
-<? //ERIK ?>
+
 <?
   session_start();
   require_once '../lib/php/meekrodb.class.php';

@@ -214,7 +214,7 @@
         <!-- Chosen category required for database input -->
         <select class="pull-right" name="selectedcategory" id="selectedcategory" ng-model="addSkill.selectedcategory">
 
-          <option value="" >Choose category</option>
+          <option value="">Choose category</option>
 
             <option ng-repeat="category in categories">{{category.name}}</option>
 
